@@ -25,6 +25,7 @@
 <h2>Model Traning</h2>
 <img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/loss-accuracy.png" alt="loss_accuracy">
 <p>The model has been trained for five epochs. During training, the model uses Adam as an optimizer. The loss function used was mean square error to penalize the model more whenever it makes false predictions.</p>
+
 <h2>Model Evaluation on Development Dataset</h2>
 <ul>
   <li><b>Training Data Accuracy: 98%</b></li>
@@ -38,4 +39,4 @@
 <h2>Classification Report on Development Dataset</h2>
 <img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Classification%20Report.png">   
 <h2>Conclusion</h2>
-<p>In this project, I have created a deep learning model that foretells the behavior of stock price with an impressive accuracy of 98 percent.</p>
+<p>In this project, I have created a deep learning model that foretells how the stock price of a company will behave by considering major news headlines with an impressive accuracy of 98 percent.</p>
