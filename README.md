@@ -15,7 +15,8 @@
   <li>Wordcloud</li>
 </ul>
 <h2>Target Class Distribution</h2>
-<img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Distribution%20Of%20Dependent%20Variable.png" >
+<img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Distribution%20Of%20Dependent%20Variable.png">
+<br>
 <p align="center"> 
 <img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Distribution%20Of%20Dependent%20Variable%20In%20Percentage.png">
 </p>    
