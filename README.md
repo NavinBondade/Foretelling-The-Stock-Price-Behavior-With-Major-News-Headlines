@@ -15,11 +15,15 @@
   <li>Wordcloud</li>
 </ul>
 <h2>Target Class Distribution</h2>
-<img src="https://github.com/NavinBondade/Stock-Price-Behavior-Prediction-With-News-Headlines/blob/main/Graphs%20&%20Pictures/Distribution%20Of%20Dependent%20Variable.png?raw=true" >
+<img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Distribution%20Of%20Dependent%20Variable.png" >
+<p align="center"> 
+<img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Distribution%20Of%20Dependent%20Variable%20In%20Percentage.png">
+</p>    
+<br>
 <h2>Model Details</h2>
 <p>For the prediction of the stock price behaviors with top twenty news headlines, I have created a deep learning model that is divided into two sections, the first section uses two one dimensional convolutional layers each followed by a max-pooling and dropout layer, and the second section uses three fully connected dense neural network layers. All the layers use RELU as an activation function except the last dense layer that uses the sigmoid activation function to map predicted values to probabilities between 0 and 1.</p>
 <h2>Model Traning</h2>
-<img src="https://github.com/NavinBondade/Stock-Price-Behavior-Prediction-With-News-Headlines/blob/main/Graphs%20%26%20Pictures/Loss%20and%20Accuracy%20Combine.jpg" alt="loss_accuracy">
+<img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Loss%20and%20Accuracy%20Combine.jpg" alt="loss_accuracy">
 <p>The model has been trained for five epochs. During training, the model uses Adam as an optimizer. The loss function used was mean square error to penalize the model more whenever it makes false predictions.</p>
 <h2>Model Evaluation on Development Dataset</h2>
 <ul>
@@ -30,6 +34,6 @@
 </ul>
 <br>
 <h3>Confusion Matrix</h3>
-<img src="https://github.com/NavinBondade/Stock-Price-Behavior-Prediction-With-News-Headlines/blob/main/Graphs%20%26%20Pictures/Confusion%20Matrix.png">
+<img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Confusion%20Matrix.png">
 <h3>Classification Report on Development Dataset</h3>
-<img src="https://github.com/NavinBondade/Stock-Price-Behavior-Prediction-With-News-Headlines/blob/main/Graphs%20%26%20Pictures/Classification%20Report.png">   
+<img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Classification%20Report.png">   
