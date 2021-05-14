@@ -33,7 +33,9 @@
   <li><b>Test Data Loss: 0.026</b></li> 
 </ul>
 <br>
-<h3>Confusion Matrix</h3>
+<h2>Confusion Matrix</h2>
 <img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Confusion%20Matrix.png">
-<h3>Classification Report on Development Dataset</h3>
+<h2>Classification Report on Development Dataset</h2>
 <img src="https://github.com/NavinBondade/Foretelling-The-Stock-Price-Behavior-With-Major-News-Headlines/blob/main/Graphs%20%26%20Pictures/Classification%20Report.png">   
+<h2>Conclusion</h2>
+<p>In this project, I have created a deep learning model that foretells the behavior of stock price with an impressive accuracy of 98 percent.</p>
