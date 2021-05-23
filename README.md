@@ -1,4 +1,4 @@
-# Stock Price Behavior Prediction With Top Twenty News Headlines With Deep Learning
+# Foretelling The Stock Price Behavior Prediction By Top Twenty News Headlines Using Deep Learning & NLP
 <img src="https://www.thestreet.com/.image/t_share/MTcwMDkyODc4NDY5NTM5MTAy/stock-price-lead.jpg" alt="Fake_And_Real_News_Classification" width="970" height="510">
 <p>News headline plays a critical role in determining the stock price behavior that mainly because most of the stockholder makes stock related decisions based on recent news. And that's why the sentiment of the news related to a particular company highly determines whether the stock of that company will grow up, down, or stay the same. To predict this behavior of the stocks I have created a deep learning system that helps to determine how the stock will behave based on the top twenty news headlines.</p>
 <h2>Libraries Used</h2>
